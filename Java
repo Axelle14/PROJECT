@@ -1,0 +1,10 @@
+doctor-scheduling-website/
+├── server.js
+├── public/
+│   ├── index.html
+│   ├── doctors.html
+│   ├── appointments.html
+│   ├── profile.html
+│   ├── styles.css
+│   └── script.js
+└── package.json
